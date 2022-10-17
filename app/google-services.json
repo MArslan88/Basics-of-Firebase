@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356850546260",
+    "project_id": "basics-of-firebase-ec5c2",
+    "storage_bucket": "basics-of-firebase-ec5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356850546260:android:99e10f83891348416adfc1",
+        "android_client_info": {
+          "package_name": "com.mhdarslan.basicsoffirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356850546260-flk6n0fmg63shu89cfdsim62em5u8127.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRUo-ZJrvdirKrPvJpCc7FgMOBqgwSjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356850546260-flk6n0fmg63shu89cfdsim62em5u8127.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
